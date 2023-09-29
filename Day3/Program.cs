@@ -114,6 +114,10 @@ List<int> evenNumers = new();
 evenNumers = numbers1.FindAll(even => even % 2 ==0);
 evenNumers.ForEach(number => Console.WriteLine(number));
 
+// Sebzeler listesine 3 tane eleman ekleyin ve u 3 elemanı listele
+// bu listede 2. İndexteki sebze adını ekrana bastırın
+// Bu listede küçük harflerle yazılan sebzeleri büüyük harfle yazsın.
+
 
 
 
